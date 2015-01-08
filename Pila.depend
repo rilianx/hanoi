@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1408651977 source:c:\users\profesor\desktop\pila\hanoi.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hanoi.h"
+
+1408651994 c:\users\profesor\desktop\pila\hanoi.h
+	"pila.h"
+
+1408652060 c:\users\profesor\desktop\pila\pila.h
+
+1408652111 source:c:\users\profesor\desktop\pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hanoi.h"
+
+1408652034 source:c:\users\profesor\desktop\pila\pila.c
+	"pila.h"
+	<stdlib.h>
+	<stdio.h>
+
+1408655577 source:c:\users\profesor\dropbox\pucv\1_courses\ed_ucv - documentos\ejemplos_codigos\tda_pila\hanoi.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hanoi.h"
+
+1408655594 c:\users\profesor\dropbox\pucv\1_courses\ed_ucv - documentos\ejemplos_codigos\tda_pila\hanoi.h
+	"pila.h"
+
+1408655660 c:\users\profesor\dropbox\pucv\1_courses\ed_ucv - documentos\ejemplos_codigos\tda_pila\pila.h
+
+1408655711 source:c:\users\profesor\dropbox\pucv\1_courses\ed_ucv - documentos\ejemplos_codigos\tda_pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hanoi.h"
+
+1408655634 source:c:\users\profesor\dropbox\pucv\1_courses\ed_ucv - documentos\ejemplos_codigos\tda_pila\pila.c
+	"pila.h"
+	<stdlib.h>
+	<stdio.h>
+
