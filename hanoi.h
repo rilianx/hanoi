@@ -6,9 +6,9 @@
 #define HANOI
 
 typedef struct{
-	PILA torre[3];
+	PILA torre[3]; // PILA
 	int n; //numero de piezas
-} hanoi; // hanoi
+} hanoi;
 
 void inicializar(hanoi* h, int n);
 int poner_pieza(PILA* torre, int pieza);
