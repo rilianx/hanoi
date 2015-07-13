@@ -8,7 +8,7 @@
 typedef struct{
 	PILA torre[3];
 	int n; //numero de piezas
-} hanoi;
+} hanoi; // hanoi
 
 void inicializar(hanoi* h, int n);
 int poner_pieza(PILA* torre, int pieza);
